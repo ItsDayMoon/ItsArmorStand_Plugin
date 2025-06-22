@@ -1,0 +1,8 @@
+name: ItsArmorStand
+version: '1.0-SNAPSHOT'
+main: me.itsArmorStand.ItsArmorStand
+api-version: '1.20'
+author: ItsDayMoon
+commands:
+  itsas:
+   description: Abre a gui para a criação de armor stands

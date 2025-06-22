@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="itsarmorstand:jar">
+    <output-path>$USER_HOME$/Downloads/ServidorTestePlugins/plugins</output-path>
+    <root id="archive" name="itsarmorstand.jar">
+      <element id="module-output" name="itsarmorstand" />
+    </root>
+  </artifact>
+</component>
