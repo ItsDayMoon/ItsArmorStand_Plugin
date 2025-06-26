@@ -1,1 +1,1 @@
-Eaeeee, é só um plguin em cocô que cria armor stands usando gui
+Eaeeee, é só um plugin bem cocô que cria armor stands usando gui
